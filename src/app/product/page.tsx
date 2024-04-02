@@ -30,7 +30,7 @@ export default function Product() {
     {
       id: 3,
       created_at: "2024-03-20 12:21:42.745522+00",
-      productName: "เสื้อคาบดาบ สำหรับ แก้ฮวงจุ้ย",
+      productName: "เสือคาบดาบ สำหรับ แก้ฮวงจุ้ย",
       price: 299,
       imageUrl:
         "https://lh3.googleusercontent.com/d/1rtuisxIMshVZVDAAekAiGSmfXoS0o8Ag",
