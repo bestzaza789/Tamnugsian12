@@ -5,8 +5,8 @@ import apply2 from "../img/apple2.png";
 import { Button } from "@chakra-ui/react";
 export default function ApplyMembership() {
   return (
-    <div className="w-full flex flex-row justify-around items-center">
-      <div className="flex flex-col justify-around items-center w-2/3 m-[50px] p-[20px] py-[20px] rounded-xl shadow-md shadow-slate-700 animate-fade-right animate-once animate-ease-in-out animate-normal animate-fill-forwards">
+    <div className="w-full flex flex-col justify-around items-center">
+      <div className="flex flex-col justify-around items-center w-2/3 m-[20px] md:m-[50px] p-[20px] py-[20px] rounded-xl shadow-md shadow-slate-700 animate-fade-right animate-once animate-ease-in-out animate-normal animate-fill-forwards">
         <Image
           className="md:max-w-[600px]"
           src={apply2}
@@ -32,6 +32,13 @@ export default function ApplyMembership() {
           </a>
         </div>
       </div>
+      <Image
+        src="https://lh3.googleusercontent.com/d/1OmMn-EhFy7_uX-v0ElAx60kA2l7CWEzJ"
+        width="1500"
+        height="800"
+        alt="reward"
+        className="md:w-[300px] w-[300px] my-[20px] mx-1"
+      />
     </div>
   );
 }
