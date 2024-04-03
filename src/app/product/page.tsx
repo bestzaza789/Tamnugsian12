@@ -62,6 +62,22 @@ export default function Product() {
         "https://lh3.googleusercontent.com/d/1tBQq8rgRzmApdGJEPg3z7cSPluYMA8rf",
     },
     {
+      id: 16,
+      created_at: "2024-03-20 12:21:42.745522+00",
+      productName: "หน้าพระลักษณ์หน้าทอง",
+      price: 1250,
+      imageUrl:
+        "https://lh3.googleusercontent.com/d/17m6AmQJmT-xQcvXXTF7V4rWkSsOYgZDA",
+    },
+    {
+      id: 17,
+      created_at: "2024-03-20 12:21:42.745522+00",
+      productName: "หินมงคลปีมังกรทอง(สำหรับวางหน้าหิ้งพระ)",
+      price: 789,
+      imageUrl:
+        "https://lh3.googleusercontent.com/d/1zWyceEMUtuI38xvJfyWNh0l5Flr0ywhQ",
+    },
+    {
       id: 4,
       created_at: "2024-03-20 12:22:06.642073+00",
       productName: "สบู่ นะหน้าทอง\nเมตตามหานิยม\n",
