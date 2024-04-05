@@ -1,13 +1,14 @@
 "use client";
 import Image from "next/image";
-import history from "../img/history.png";
 
 export default function History() {
   return (
     <div className="w-full flex flex-row justify-around items-center">
       <div className="flex flex-col justify-around items-center m-[20px] md:m-[50px] p-[20px] py-[20px]  ">
         <Image
-          src={history}
+          src="https://lh3.googleusercontent.com/d/1dJTAhw2pTysE1Sv2nOzq1BZhxYxkyQ6-"
+          width="5600"
+          height="4200"
           alt="history"
           className="w-[500px] my-[20px] animate-fade-down animate-once animate-ease-in-out"
         />
