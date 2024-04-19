@@ -78,6 +78,14 @@ export default function Product() {
         "https://lh3.googleusercontent.com/d/1zWyceEMUtuI38xvJfyWNh0l5Flr0ywhQ",
     },
     {
+      id: 18,
+      created_at: "2024-03-20 12:21:42.745522+00",
+      productName: "ล็อคเก็ต 12 องค์เทพเสริมความเฮง เทพคุ้มครอง",
+      price: 329,
+      imageUrl:
+        "https://lh3.googleusercontent.com/d/1uUg6zhL8ynWsosWJOp61WgfHOMII0PIN",
+    },
+    {
       id: 4,
       created_at: "2024-03-20 12:22:06.642073+00",
       productName: "สบู่ นะหน้าทอง\nเมตตามหานิยม\n",

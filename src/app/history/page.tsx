@@ -13,7 +13,7 @@ export default function History() {
           className="w-[500px] my-[20px] animate-fade-down animate-once animate-ease-in-out"
         />
         <h1 className="text-[15px] md:text-[30px] my-[20px] text-start animate-fade-up animate-once animate-ease-in-out">
-          สถานธรรม ตำหนักเซียน 12 องค์เทพ จังหวัด พิษณโลก (เดิมชื่อ
+          สถานธรรม ตำหนักเซียน 12 องค์เทพ จังหวัด พิษณุโลก (เดิมชื่อ
           ตำหนักเซียนเรือนเพชรลานนา) ตั้งอยู่ อำเภอวัดโบสถ์
         </h1>
         <h1 className="text-[15px] md:text-[30px] my-[20px] text-start animate-fade-up animate-once animate-ease-in-out">
