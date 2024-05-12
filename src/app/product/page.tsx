@@ -38,25 +38,24 @@ export default function Product() {
     {
       id: 13,
       created_at: "2024-03-20 12:21:42.745522+00",
-      productName: "ยันต์อรหันต์คุ้มกายา",
-      price: 199,
+      productName: "ยันต์อรหันต์คุ้มกายา แถมฟรี กรอบป้ายภาษีรถยนต์ตำหนักเซียน",
+      price: 789,
       imageUrl:
-        "https://lh3.googleusercontent.com/d/1DUYC7OaXn9-3oKVeZliCciNyKLcKeF94",
+        "https://lh3.googleusercontent.com/d/11EM8u5u9HNl38ZI3HAk9ddYZhwAMWZ3d",
     },
-    {
-      id: 14,
-      created_at: "2024-03-20 12:21:42.745522+00",
-      productName:
-        "กรอบป้ายภาษีรถยนต์ตำหนักเซียน แถมฟรี ยันต์อรหันต์คุ้มกายา มูลค่า 199 บาท",
-      price: 499,
-      imageUrl:
-        "https://lh3.googleusercontent.com/d/1oPQdY7_s6lfg_AUBuB0v7MWHhSJtAmlx",
-    },
+    // {
+    //   id: 14,
+    //   created_at: "2024-03-20 12:21:42.745522+00",
+    //   productName:
+    //     "กรอบป้ายภาษีรถยนต์ตำหนักเซียน แถมฟรี ยันต์อรหันต์คุ้มกายา มูลค่า 199 บาท",
+    //   price: 499,
+    //   imageUrl:
+    //     "https://lh3.googleusercontent.com/d/1oPQdY7_s6lfg_AUBuB0v7MWHhSJtAmlx",
+    // },
     {
       id: 15,
       created_at: "2024-03-20 12:21:42.745522+00",
-      productName:
-        "พัดซินแส ตำหนักเซียน แถมฟรี ยันต์อรหันต์คุ้มกายา มูลค่า 199 บาท",
+      productName: "พัดซินแส ตำหนักเซียน ",
       price: 499,
       imageUrl:
         "https://lh3.googleusercontent.com/d/1tBQq8rgRzmApdGJEPg3z7cSPluYMA8rf",
@@ -84,6 +83,14 @@ export default function Product() {
       price: 329,
       imageUrl:
         "https://lh3.googleusercontent.com/d/1uUg6zhL8ynWsosWJOp61WgfHOMII0PIN",
+    },
+    {
+      id: 19,
+      created_at: "2024-03-20 12:21:42.745522+00",
+      productName: "ไพ่เทพเซียน พร้อมผ้าฉากหลังตำหนัก",
+      price: 1999,
+      imageUrl:
+        "https://lh3.googleusercontent.com/d/1fCJYXFClLI0-zvnffMLEkoQ3qLTIThYH",
     },
     {
       id: 4,
