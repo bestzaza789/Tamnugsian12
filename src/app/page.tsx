@@ -1,6 +1,5 @@
 "use client";
 import Image from "next/image";
-import bgHomePage from "./img/bgHonePage.png";
 
 export default function Home() {
   return (
@@ -10,8 +9,10 @@ export default function Home() {
       </div>
       <Image
         className="w-full absolute md:relative -z-0 animate-fade animate-once animate-ease-in-out"
-        src={bgHomePage}
-        alt="background"
+        src="https://lh3.googleusercontent.com/d/15Eb8AASShsrcLQKu6rdDHs89nWlEqZAb"
+        alt="https://lh3.googleusercontent.com/d/15Eb8AASShsrcLQKu6rdDHs89nWlEqZAb"
+        width="1500"
+        height="800"
       />
       <Image
         className="w-full absolute top-[500px] md:relative -z-0 animate-fade animate-once animate-ease-in-out"
