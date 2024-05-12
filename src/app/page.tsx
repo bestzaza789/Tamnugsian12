@@ -19,7 +19,6 @@ export default function Home() {
         alt="history"
         width="1500"
         height="800"
-        alt="background"
       />
     </main>
   );
