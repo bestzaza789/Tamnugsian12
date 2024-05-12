@@ -13,6 +13,13 @@ export default function Home() {
         src={bgHomePage}
         alt="background"
       />
+      <Image
+        className="w-full absolute top-[500px] md:relative -z-0 animate-fade animate-once animate-ease-in-out"
+        src="https://lh3.googleusercontent.com/d/1du8-1SOLKngVEMGifTwI5JV_rDZxZdDQ"
+        alt="history"
+        width="1500"
+        height="800"
+      />
     </main>
   );
 }
