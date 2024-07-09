@@ -87,17 +87,17 @@ export default function Product() {
       id: 19,
       created_at: "2024-03-20 12:21:42.745522+00",
       productName: "ไพ่เทพเซียน พร้อมผ้าฉากหลังตำหนัก",
-      price: 1999,
+      price: 2999,
       imageUrl:
         "https://lh3.googleusercontent.com/d/1fCJYXFClLI0-zvnffMLEkoQ3qLTIThYH",
     },
     {
       id: 20,
       created_at: "2024-03-20 12:21:42.745522+00",
-      productName: "ตำราสวดมนต์ ทำวัตรเช้า ทำวัตรเย็น",
+      productName: "ตำราสอนสมาธิ เดินจงกรม และบทสวดมนต์ ทำวัตรเช้า-เย็น",
       price: 399,
       imageUrl:
-        "https://lh3.googleusercontent.com/d/1zg2E0KwD6CGlhY2SYgL7_ow_uFTIdEQ1",
+        "https://lh3.googleusercontent.com/d/1sVm9nx6455-yp1v9H3XvNCNPrc_O4e8l",
     },
     {
       id: 21,
@@ -114,6 +114,14 @@ export default function Product() {
       price: 599,
       imageUrl:
         "https://lh3.googleusercontent.com/d/1LiG4pqz6L4QI6qls7vBG61oX5rUOD-0g",
+    },
+    {
+      id: 23,
+      created_at: "2024-03-20 12:21:42.745522+00",
+      productName: "เหรียญบารมีครู (เงิน ทอง นาค) 1,299 บาท",
+      price: 599,
+      imageUrl:
+        "https://lh3.googleusercontent.com/d/1ig39jC-5E2AVUeQwEqdZogupc-YGsyHn",
     },
     {
       id: 4,
