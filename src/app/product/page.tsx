@@ -89,7 +89,7 @@ export default function Product() {
       productName: "ไพ่เทพเซียน พร้อมผ้าฉากหลังตำหนัก",
       price: 2999,
       imageUrl:
-        "https://lh3.googleusercontent.com/d/1fCJYXFClLI0-zvnffMLEkoQ3qLTIThYH",
+        "https://lh3.googleusercontent.com/d/1BoeK5W0kAckAwsdM9y-dFlwUO-tHKTUC",
     },
     {
       id: 20,
@@ -118,8 +118,8 @@ export default function Product() {
     {
       id: 23,
       created_at: "2024-03-20 12:21:42.745522+00",
-      productName: "เหรียญบารมีครู (เงิน ทอง นาค) 1,299 บาท",
-      price: 599,
+      productName: "เหรียญบารมีครู (เงิน ทอง นาค) ",
+      price: 1299,
       imageUrl:
         "https://lh3.googleusercontent.com/d/1ig39jC-5E2AVUeQwEqdZogupc-YGsyHn",
     },
