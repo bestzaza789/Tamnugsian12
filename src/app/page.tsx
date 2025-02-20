@@ -16,7 +16,7 @@ export default function Home() {
       />
       <Image
         className="w-full absolute top-[300px] md:relative -z-0 animate-fade animate-once animate-ease-in-out"
-        src="https://lh3.googleusercontent.com/d/1iDlTW6aQ6ZVCMAZIK064AkrH6SOFaZcs"
+        src="https://lh3.googleusercontent.com/d/1iKtHPO5o17bQ8s1DJlt4YP-ZEIySzEYj"
         alt="history"
         width="1500"
         height="800"
