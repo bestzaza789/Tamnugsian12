@@ -21,7 +21,8 @@ export default function News() {
         </div>
 
         <h1 className="text-[15px] my-[10px] md:text-[30px] md:my-[20px] text-center">
-          ”มูให้ครบ จบในที่เดียว“
+          ”มูให้ครบ จบในที่เดียว(ต้องนัดหมาย วันเวลาก่อนมาทำพิธี
+          เนื่องจากต้องเตรียมเครื่องไหว้ที่เกี่ยวข้อง)“
         </h1>
         <h1 className="text-[15px] my-[10px] md:text-[30px] md:my-[20px] text-center">
           ครอบครู ลงนะหน้าทอง ลงนะฝ่ามือเศรษฐี ดูดวงชะตา อาบน้ำมนต์ธรณีสาร
