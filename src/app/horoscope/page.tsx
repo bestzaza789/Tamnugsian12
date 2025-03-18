@@ -18,9 +18,21 @@ export default function News() {
           width="1500"
           height="800"
         />
+        <h1 className="text-[15px] my-[10px] md:text-[30px] md:my-[20px] text-center">
+          ”มูให้ครบ จบในที่เดียว(ต้องนัดหมาย วันเวลาก่อนมาทำพิธี
+          เนื่องจากต้องเตรียมเครื่องไหว้ที่เกี่ยวข้อง)“
+        </h1>
+        <h1 className="text-[15px] my-[10px] md:text-[30px] md:my-[20px] text-center">
+          ครอบครู ลงนะหน้าทอง ลงนะฝ่ามือเศรษฐี ดูดวงชะตา อาบน้ำมนต์ธรณีสาร
+        </h1>
+        <h1 className="text-[15px] my-[10px] md:text-[30px] md:my-[20px] text-center">
+          ณ ตำหนักเซียน 12 องค์เทพ บ้านเหล่าขวัญ หมู่ 3 อ.วัดโบสถ์ จ.พิษณุโลก
+        </h1>
+        <h1 className="text-[15px] my-[10px] md:text-[30px] md:my-[20px] text-center">
+          พ่อครูหาริ
+        </h1>
 
         <h1 className="text-[15px] my-[10px] md:text-[30px] md:my-[20px] text-center">
-          พิธกรรมเสริมดวง 5 ขั้นตอน นัดหมายอาจารย์ตำหนักเซียน
           คลิกที่ปุ่มข้างล่างนี้เลย
         </h1>
         <Link href="/contact">
