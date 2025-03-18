@@ -21,7 +21,7 @@ export default function News() {
         </div>
 
         <h1 className="text-[15px] my-[10px] md:text-[30px] md:my-[20px] text-center">
-          ”มูให้ครบ จบในที่เดียว“ ทุก เสาร์-อาทิตย์
+          ”มูให้ครบ จบในที่เดียว“
         </h1>
         <h1 className="text-[15px] my-[10px] md:text-[30px] md:my-[20px] text-center">
           ครอบครู ลงนะหน้าทอง ลงนะฝ่ามือเศรษฐี ดูดวงชะตา อาบน้ำมนต์ธรณีสาร
