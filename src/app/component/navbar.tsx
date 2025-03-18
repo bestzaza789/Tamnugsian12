@@ -40,7 +40,7 @@ export default function Navbar() {
     {
       id: 5,
       link: "horoscope",
-      Name: "พิธีกรรมเสริงดวง 5 ขั้นตอน",
+      Name: "พิธีกรรมเสริมดวง 5 ขั้นตอน",
     },
     {
       id: 6,
