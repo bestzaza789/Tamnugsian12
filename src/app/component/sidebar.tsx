@@ -57,7 +57,7 @@ export default function Sidebar() {
                   className="flex items-center p-2 text-base font-normal text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700"
                 >
                   <span className="flex-1 ml-3 ">
-                    ติดต่อ ดูดวงไพ่ ลงนะหน้าทอง ทั่วประเทศ
+                    พิธีกรรมเสริงดวง 5 ขั้นตอน
                   </span>
                 </Link>
               </li>

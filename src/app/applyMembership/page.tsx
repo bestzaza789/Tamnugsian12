@@ -14,12 +14,18 @@ export default function ApplyMembership() {
         />
         <div>
           <h1 className="text-start text-[10px] md:text-[30px] m-[20px]">
-            ได้ปันผลศิษย์ก้นกุฏิ ทุก 15 วัน 6% ที่มีการเป็นสะพานบุญส่วนตัว
-            ตลอดไป
+            ลงทะเบียน 1,299 บาท
           </h1>
           <h1 className="text-start text-[10px] md:text-[30px] m-[20px]">
-            ถ้าทุกรอบ 15 วัน เป็นสะพานบุญ ได้ 1 รายการ ศิษย์ก้นกุฏิ
-            จะได้แต้มบุญพิเศษ หารกัน อีก 2% ด้วย
+            สมัคร เป็นศิษย์ก้นกุฏิ อ.หาริ เพชรลานน์ (รับเหรียญ 12
+            องค์เทพปีมังกรทอง 1 เหรียญ)
+          </h1>
+          <h1 className="text-start text-[10px] md:text-[30px] m-[20px]">
+            ได้เรียนบริหารจัดการชีวิต 365 วัน(ในเฟสบุ๊คกลุ่มปิด) เรียนจบ
+            จะได้ไปใช้ชีวิต "ดุจการเฉลิมฉลอง ความสำเร็จในทุกๆวัน"
+          </h1>
+          <h1 className="text-start text-[10px] md:text-[30px] m-[20px]">
+            เจริญ เจริญ นะครับ
           </h1>
         </div>
 
@@ -33,11 +39,10 @@ export default function ApplyMembership() {
         </div>
       </div>
       <Image
-        src="https://lh3.googleusercontent.com/d/1OmMn-EhFy7_uX-v0ElAx60kA2l7CWEzJ"
+        src="https://lh3.googleusercontent.com/d/1VldW_vWWtMGOnBwO3uorV5FRcyJpyJpZ"
         width="1500"
         height="800"
         alt="reward"
-        className="md:w-[300px] w-[300px] my-[20px] mx-1"
       />
     </div>
   );

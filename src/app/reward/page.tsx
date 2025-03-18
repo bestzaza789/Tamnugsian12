@@ -6,6 +6,18 @@ export default function News() {
     <div className="w-full flex flex-row justify-around items-center">
       <div className="flex flex-col justify-around items-center m-[20px] md:m-[50px] p-[20px] py-[20px]  animate-fade-right animate-once animate-ease-in-out animate-normal animate-fill-forwards">
         <Image
+          src="https://lh3.googleusercontent.com/d/1nTesg5zM3HJ2ilEUE9zaFOHMz90t-Ddd"
+          width="1500"
+          height="1000"
+          alt="reward"
+          className="md:w-[500px] w-[300px] my-[20px] mx-1"
+        />
+
+        <h1 className=" text-[15px] my-[10px] md:text-[30px] md:my-[20px] text-center">
+          รางวัลกินรีทอง ครั้งที่ 10 ปี พ.ศ. 2568
+        </h1>
+
+        <Image
           src="https://lh3.googleusercontent.com/d/1p8kqHQf6BSP6V5L7n5EEw1c7TyctfUk6"
           width="1500"
           height="1000"

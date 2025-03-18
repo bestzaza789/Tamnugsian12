@@ -33,8 +33,8 @@ export default function News() {
         </h1>
 
         <h1 className="text-[15px] my-[10px] md:text-[30px] md:my-[20px] text-start animate-fade-right animate-once animate-ease-in-out animate-normal animate-fill-forwards">
-          ศิษได้ร่วมทำบุญกันสร้างได้ด้วยจิตศรัทธา 13 กรกฎาคม 2567 เวลา 09.59 น.
-          เวียนมาบรรจบ เป็นวันครบรอบ 4 ปี ตำหนักเซียน 12 องค์เทพ พิษณุโลก
+          ศิษได้ร่วมทำบุญกันสร้างได้ด้วยจิตศรัทธา 13 กรกฎาคม 2568 เวลา 09.59 น.
+          เวียนมาบรรจบ เป็นวันครบรอบ 5 ปี ตำหนักเซียน 12 องค์เทพ พิษณุโลก
         </h1>
 
         <h1 className="text-[15px] my-[10px] md:text-[30px] md:my-[20px] text-start animate-fade-right animate-once animate-ease-in-out animate-normal animate-fill-forwards">
@@ -56,7 +56,7 @@ export default function News() {
         </h1>
 
         <h1 className="text-[15px] my-[10px] md:text-[30px] md:my-[20px] text-start animate-fade-right animate-once animate-ease-in-out animate-normal animate-fill-forwards">
-          บัญชีร่วมบุญพร้อมเพย์ตำหนัก 0877898262 ซื่อบัญชี ชยพล เพชรลานน์
+          บัญชีร่วมบุญพร้อมเพย์ตำหนัก 0987898949 ซื่อบัญชี หาริ เพชรลานน์
           สาธุครับ
         </h1>
 
