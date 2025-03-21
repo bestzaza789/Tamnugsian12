@@ -18,7 +18,7 @@ export default function History() {
         </h1>
         <h1 className="text-[15px] md:text-[30px] my-[20px] text-start animate-fade-up animate-once animate-ease-in-out">
           ก่อตั้ง โดย อาจารย์หาริ เพชรลานน์ และศรัทธาบุญจากศิษยานุศิษย์ทั่วโลก
-          เมื่อวันที่ 13 กรกฎาคม พ.ศ. 2564
+          เมื่อวันที่ 13 กรกฎาคม พ.ศ. 2561
         </h1>
         <h1 className="text-[15px] md:text-[30px] my-[20px] text-start animate-fade-up animate-once animate-ease-in-out">
           12 องค์เทพ ประกอบด้วย ไท่เสียงเหล่ากุง พระแม่กวนอิม ลื่อทงปิง

@@ -34,7 +34,7 @@ export default function News() {
 
         <h1 className="text-[15px] my-[10px] md:text-[30px] md:my-[20px] text-start animate-fade-right animate-once animate-ease-in-out animate-normal animate-fill-forwards">
           ศิษได้ร่วมทำบุญกันสร้างได้ด้วยจิตศรัทธา 13 กรกฎาคม 2568 เวลา 09.59 น.
-          เวียนมาบรรจบ เป็นวันครบรอบ 5 ปี ตำหนักเซียน 12 องค์เทพ พิษณุโลก
+          เวียนมาบรรจบ เป็นวันครบรอบ 7 ปี ตำหนักเซียน 12 องค์เทพ พิษณุโลก
         </h1>
 
         <h1 className="text-[15px] my-[10px] md:text-[30px] md:my-[20px] text-start animate-fade-right animate-once animate-ease-in-out animate-normal animate-fill-forwards">
