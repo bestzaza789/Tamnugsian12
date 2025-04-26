@@ -25,6 +25,39 @@ export default function History() {
           น่าไฉ่ฮั้ว ฮั่นเชียงจื่อ เช่าก๊กกู๋ เตียวกั๋วเล่า ทิก๊วยลี้
           ฮ้อเซียนโกว ฮั่งเจ็งลี้ ซำง้วน และ ปู่ชีวกโกมารภัทร
         </h1>
+        <Image
+          src="https://lh3.googleusercontent.com/d/1U4-DCsiDh16T5SlZVJTwFAcVANwRa9VS"
+          width="5600"
+          height="4200"
+          alt="history"
+          className="w-[500px] my-[20px] animate-fade-down animate-once animate-ease-in-out"
+        />
+        <h1 className="text-[15px] md:text-[30px] my-[20px] text-start animate-fade-up animate-once animate-ease-in-out">
+          ตำหนักเซียน 12 องค์เทพ อำเภอวัดโบสถ์ จังหวัดพิษณุโลก ผู้ดูแล
+          พ่อครูหาริ เพชรลานน์
+        </h1>
+        <Image
+          src="https://lh3.googleusercontent.com/d/1SN7VkV2UW3NMhX4KhoXCMAldu06jQWsa"
+          width="5600"
+          height="4200"
+          alt="history"
+          className="w-[500px] my-[20px] animate-fade-down animate-once animate-ease-in-out"
+        />
+        <h1 className="text-[15px] md:text-[30px] my-[20px] text-start animate-fade-up animate-once animate-ease-in-out">
+          ตำหนักเซียน 12 องค์เทพ รามคำแหง 53 กรุงเทพ ผู้ดูแล อาจารย์จุ้ย และ
+          อาจารย์ท็อป ตำหนักเซียน
+        </h1>
+        <Image
+          src="https://lh3.googleusercontent.com/d/1W8nL7oFIs8h-pufJ1OqUM9eUYed43MuU"
+          width="5600"
+          height="4200"
+          alt="history"
+          className="w-[500px] my-[20px] animate-fade-down animate-once animate-ease-in-out"
+        />
+        <h1 className="text-[15px] md:text-[30px] my-[20px] text-start animate-fade-up animate-once animate-ease-in-out">
+          ตำหนักเซียน 12 องค์เทพ สาขาสายไหม กรุงเทพ ผู้ดูแล อาจารย์เหลิม
+          ตำหนักเซียน
+        </h1>
       </div>
     </div>
   );

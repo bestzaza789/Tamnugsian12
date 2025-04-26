@@ -9,15 +9,15 @@ export default function Home() {
       </div>
       <Image
         className="w-full absolute md:relative -z-0 animate-fade animate-once animate-ease-in-out"
-        src="https://lh3.googleusercontent.com/d/15Eb8AASShsrcLQKu6rdDHs89nWlEqZAb"
-        alt="https://lh3.googleusercontent.com/d/15Eb8AASShsrcLQKu6rdDHs89nWlEqZAb"
+        src="https://lh3.googleusercontent.com/d/1dJTAhw2pTysE1Sv2nOzq1BZhxYxkyQ6-"
+        alt="history"
         width="1500"
         height="800"
       />
       <Image
         className="w-full absolute top-[300px] md:relative -z-0 animate-fade animate-once animate-ease-in-out"
-        src="https://lh3.googleusercontent.com/d/1iKtHPO5o17bQ8s1DJlt4YP-ZEIySzEYj"
-        alt="history"
+        src="https://lh3.googleusercontent.com/d/15Eb8AASShsrcLQKu6rdDHs89nWlEqZAb"
+        alt="https://lh3.googleusercontent.com/d/15Eb8AASShsrcLQKu6rdDHs89nWlEqZAb"
         width="1500"
         height="800"
       />
