@@ -58,6 +58,48 @@ export default function History() {
           ตำหนักเซียน 12 องค์เทพ สาขาสายไหม กรุงเทพ ผู้ดูแล อาจารย์เหลิม
           ตำหนักเซียน
         </h1>
+        <Image
+          src="https://lh3.googleusercontent.com/d/1BIN7GsdKibD01mDr1yy8hI5lfQiokzE6"
+          width="5600"
+          height="4200"
+          alt="history"
+          className="w-[500px] my-[20px] animate-fade-down animate-once animate-ease-in-out"
+        />
+        <h1 className="text-[15px] md:text-[30px] my-[20px] text-start animate-fade-up animate-once animate-ease-in-out">
+          ตำหนักเซียน 12 องค์เทพ เรือนบุญมาดามสายติดดิน สระบุรี ผู้ดูแล
+          อาจารย์สาว ตำหนักเซียน
+        </h1>
+        <Image
+          src="https://lh3.googleusercontent.com/d/1tnE2Bvnd1HrE_konPgBcvc4UAQbYMml6"
+          width="5600"
+          height="4200"
+          alt="history"
+          className="w-[500px] my-[20px] animate-fade-down animate-once animate-ease-in-out"
+        />
+        <h1 className="text-[15px] md:text-[30px] my-[20px] text-start animate-fade-up animate-once animate-ease-in-out">
+          ตำหนักเซียน 12 องค์เทพ สาขาสันป่าตอง เชียงใหม่ ผู้ดูแล อาจารย์หนุ่ย
+          ตำหนักเซียน
+        </h1>
+        <Image
+          src="https://lh3.googleusercontent.com/d/1IQ437msexFOZx9YZmRnz5goCyh2KOBSW"
+          width="5600"
+          height="4200"
+          alt="history"
+          className="w-[500px] my-[20px] animate-fade-down animate-once animate-ease-in-out"
+        />
+        <h1 className="text-[15px] md:text-[30px] my-[20px] text-start animate-fade-up animate-once animate-ease-in-out">
+          ตำหนักเซียน 12 องค์เทพ สาขาลำพูน ผู้ดูแล อาจารย์นัท ตำหนักเซียน
+        </h1>
+        <Image
+          src="https://lh3.googleusercontent.com/d/1D-HiNVxJiVgS8A6jeHk1MAxpKxp-2jaL"
+          width="5600"
+          height="4200"
+          alt="history"
+          className="w-[500px] my-[20px] animate-fade-down animate-once animate-ease-in-out"
+        />
+        <h1 className="text-[15px] md:text-[30px] my-[20px] text-start animate-fade-up animate-once animate-ease-in-out">
+          ตำหนักเซียน 12 องค์เทพ สาขาจันทบุรี ผู้ดูแล อาจารย์อ๋อม ตำหนักเซียน
+        </h1>
       </div>
     </div>
   );
