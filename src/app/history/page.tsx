@@ -30,8 +30,16 @@ export default function History() {
           width="5600"
           height="4200"
           alt="history"
-          className="w-[500px] my-[20px] animate-fade-down animate-once animate-ease-in-out"
+          className="w-[500px]  animate-fade-down animate-once animate-ease-in-out"
         />
+        <Image
+          src="https://lh3.googleusercontent.com/d/1pebtx0AkkflSW-CASk7NjVGyGWg3Ahlr"
+          width="5600"
+          height="4200"
+          alt="history"
+          className="w-[500px] my-[10px] animate-fade-down animate-once animate-ease-in-out"
+        />
+
         <h1 className="text-[15px] md:text-[30px] my-[20px] text-start animate-fade-up animate-once animate-ease-in-out">
           ตำหนักเซียน 12 องค์เทพ อำเภอวัดโบสถ์ จังหวัดพิษณุโลก ผู้ดูแล
           พ่อครูหาริ เพชรลานน์
@@ -97,6 +105,7 @@ export default function History() {
           alt="history"
           className="w-[500px] my-[20px] animate-fade-down animate-once animate-ease-in-out"
         />
+
         <h1 className="text-[15px] md:text-[30px] my-[20px] text-start animate-fade-up animate-once animate-ease-in-out">
           ตำหนักเซียน 12 องค์เทพ สาขาจันทบุรี ผู้ดูแล อาจารย์อ๋อม ตำหนักเซียน
         </h1>

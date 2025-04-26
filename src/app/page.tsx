@@ -43,6 +43,13 @@ export default function Home() {
         width="1500"
         height="800"
       />
+      <Image
+        className="w-full absolute top-[1060px] md:relative -z-0 animate-fade animate-once animate-ease-in-out"
+        src="https://lh3.googleusercontent.com/d/1efpIxqVvStQ2pjBEHtlLCqZ5a-fcBWFE"
+        alt="https://lh3.googleusercontent.com/d/1efpIxqVvStQ2pjBEHtlLCqZ5a-fcBWFE"
+        width="1500"
+        height="800"
+      />
     </main>
   );
 }
