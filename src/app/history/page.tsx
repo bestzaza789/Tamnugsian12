@@ -109,6 +109,39 @@ export default function History() {
         <h1 className="text-[15px] md:text-[30px] my-[20px] text-start animate-fade-up animate-once animate-ease-in-out">
           ตำหนักเซียน 12 องค์เทพ สาขาจันทบุรี ผู้ดูแล อาจารย์อ๋อม ตำหนักเซียน
         </h1>
+        <Image
+          src="https://lh3.googleusercontent.com/d/1oYX5u58orjjly7-1p9IMqXaHBop-bSpl"
+          width="5600"
+          height="4200"
+          alt="history"
+          className="w-[500px] my-[20px] animate-fade-down animate-once animate-ease-in-out"
+        />
+
+        <h1 className="text-[15px] md:text-[30px] my-[20px] text-start animate-fade-up animate-once animate-ease-in-out">
+          ตำหนักเซียน 12 องค์เทพ สาขาออสเตรเลีย ผู้ดูแล อาจารย์ปทิดา ตำหนักเซียน
+        </h1>
+        <Image
+          src="https://lh3.googleusercontent.com/d/1L9wXZJszbnRUu-1udPqbJ1JSvtiPdt5I"
+          width="5600"
+          height="4200"
+          alt="history"
+          className="w-[500px] my-[20px] animate-fade-down animate-once animate-ease-in-out"
+        />
+
+        <h1 className="text-[15px] md:text-[30px] my-[20px] text-start animate-fade-up animate-once animate-ease-in-out">
+          ตำหนักเซียน 12 องค์เทพ สาขาออสเตรเลีย ผู้ดูแล อาจารย์ปทิดา ตำหนักเซียน
+        </h1>
+        <Image
+          src="https://lh3.googleusercontent.com/d/1E4DDbzcZGM9EifzDAwxQ7kk9dxa1dC8X"
+          width="5600"
+          height="4200"
+          alt="history"
+          className="w-[500px] my-[20px] animate-fade-down animate-once animate-ease-in-out"
+        />
+
+        <h1 className="text-[15px] md:text-[30px] my-[20px] text-start animate-fade-up animate-once animate-ease-in-out">
+          ตำหนักเซียน 12 องค์เทพ สาขาสิงคโปร์ ผู้ดูแล อาจารย์สยาม ตำหนักเซียน
+        </h1>
       </div>
     </div>
   );
