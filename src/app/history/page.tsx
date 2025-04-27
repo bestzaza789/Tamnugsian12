@@ -118,7 +118,7 @@ export default function History() {
         />
 
         <h1 className="text-[15px] md:text-[30px] my-[20px] text-start animate-fade-up animate-once animate-ease-in-out">
-          ตำหนักเซียน 12 องค์เทพ สาขาออสเตรเลีย ผู้ดูแล อาจารย์ปทิดา ตำหนักเซียน
+          ตำหนักเซียน 12 องค์เทพ สาขามาเลเซีย ผู้ดูแล อาจารย์อนัญญา ตำหนักเซียน
         </h1>
         <Image
           src="https://lh3.googleusercontent.com/d/1L9wXZJszbnRUu-1udPqbJ1JSvtiPdt5I"
