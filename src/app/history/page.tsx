@@ -67,6 +67,16 @@ export default function History() {
           ตำหนักเซียน
         </h1>
         <Image
+          src="https://lh3.googleusercontent.com/d/15ImlGPZ6hNXqtFXB6Ippc1YtbidwybXG"
+          width="5600"
+          height="4200"
+          alt="history"
+          className="w-[500px] my-[20px] animate-fade-down animate-once animate-ease-in-out"
+        />
+        <h1 className="text-[15px] md:text-[30px] my-[20px] text-start animate-fade-up animate-once animate-ease-in-out">
+          ตำหนักเซียน 12 องค์เทพ สาขาปทุมธานี ผู้ดูแล อาจารย์แอนนี่ ตำหนักเซียน
+        </h1>
+        <Image
           src="https://lh3.googleusercontent.com/d/1BIN7GsdKibD01mDr1yy8hI5lfQiokzE6"
           width="5600"
           height="4200"
