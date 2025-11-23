@@ -73,7 +73,13 @@ export default function Home() {
         width={1500}
         height={800}
       />
-
+<Image
+        className="w-full absolute top-[1130px] md:relative -z-0 animate-fade animate-once animate-ease-in-out"
+        src="https://lh3.googleusercontent.com/d/1TZcwki280D8w1m2QtovEPIfRYGmf8T0g"
+        alt="Image 2"
+        width={1500}
+        height={800}
+      />
 
 
       {/* Facebook Comments */}
@@ -82,7 +88,7 @@ export default function Home() {
         initial={{ opacity: 0, y: 100 }}
         animate={controls}
         transition={{ duration: 0.8, ease: "easeOut" }}
-        className="w-full flex justify-center items-center mt-10 p-4 z-[9999]  absolute top-[1100px] md:relative"
+        className="w-full flex justify-center items-center mt-10 p-4 z-[9999]  absolute top-[1620px] md:relative"
       >
         <div className="w-full max-w-5xl">
           <div id="fb-root"></div>
