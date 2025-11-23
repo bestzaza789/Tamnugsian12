@@ -67,20 +67,14 @@ export default function Home() {
       </section>
 
       <Image
-        className="w-full absolute top-[800px] md:relative -z-0 animate-fade animate-once animate-ease-in-out"
-        src="https://lh3.googleusercontent.com/d/15Eb8AASShsrcLQKu6rdDHs89nWlEqZAb"
+        className="w-full absolute top-[820px] md:relative -z-0 animate-fade animate-once animate-ease-in-out"
+        src="https://lh3.googleusercontent.com/d/1oTw_vUQkhz5o37hKwImc0tHBIHWlONXG"
         alt="Image 2"
         width={1500}
         height={800}
       />
 
-      <Image
-        className="w-full absolute top-[1060px] md:relative -z-0 animate-fade animate-once animate-ease-in-out"
-        src="https://lh3.googleusercontent.com/d/1efpIxqVvStQ2pjBEHtlLCqZ5a-fcBWFE"
-        alt="Image 3"
-        width={1500}
-        height={800}
-      />
+
 
       {/* Facebook Comments */}
       <motion.div
@@ -88,7 +82,7 @@ export default function Home() {
         initial={{ opacity: 0, y: 100 }}
         animate={controls}
         transition={{ duration: 0.8, ease: "easeOut" }}
-        className="w-full flex justify-center items-center mt-10 p-4 z-[9999]  absolute top-[1400px] md:relative"
+        className="w-full flex justify-center items-center mt-10 p-4 z-[9999]  absolute top-[1100px] md:relative"
       >
         <div className="w-full max-w-5xl">
           <div id="fb-root"></div>
