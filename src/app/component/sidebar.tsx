@@ -14,7 +14,7 @@ export default function Sidebar() {
     { href: "/news", label: "กิจกรรม", icon: FaNewspaper },
     { href: "/reward", label: "เกียรติรางวัล", icon: FaAward },
     { href: "/course", label: "คอร์สเรียน", icon: FaGraduationCap },
-    { href: "/product", label: "วัตถุมงคล", icon: FaGem },
+    { href: "https://tamnungsian12shop.great-site.net", label: "วัตถุมงคล", icon: FaGem },
     { href: "/horoscope", label: "พิธีกรรม", icon: FaStar },
     { href: "/fengshui", label: "ฮวงจุ้ย", icon: FaCompass },
     { href: "/rite", label: "งานพิธี", icon: FaPray },

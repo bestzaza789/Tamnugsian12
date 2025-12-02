@@ -27,7 +27,7 @@ export default function Navbar() {
     { id: 2, link: "/news", Name: "กิจกรรม" },
     { id: 10, link: "/reward", Name: "เกียรติรางวัล" },
     { id: 3, link: "/course", Name: "คอร์สเรียน" },
-    { id: 4, link: "/product", Name: "วัตถุมงคล" },
+    { id: 4, link: "https://tamnungsian12shop.great-site.net", Name: "วัตถุมงคล" },
     { id: 5, link: "/horoscope", Name: "พิธีกรรม" },
     { id: 6, link: "/fengshui", Name: "ฮวงจุ้ย" },
     { id: 7, link: "/rite", Name: "งานพิธี" },
