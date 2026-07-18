@@ -825,19 +825,19 @@ export default function News() {
             className="w-1/2 m-1 animate-fade animate-once animate-ease-in-out"
           />
           <Image
-            src={page1_2}
+            src={page1_4}
             alt="งานไหว้ครู ครบรอบ 8 ปี ตำหนักเซียน 12 องค์เทพ"
             className="w-1/2 m-1 animate-fade animate-once animate-ease-in-out"
           />
         </div>
         <div className="flex flex-row">
           <Image
-            src={page1_3}
+            src={page1_5}
             alt="งานไหว้ครู ครบรอบ 8 ปี ตำหนักเซียน 12 องค์เทพ"
             className="w-1/2 m-1 animate-fade animate-once animate-ease-in-out"
           />
           <Image
-            src={page1_4}
+            src={page1_6}
             alt="งานไหว้ครู ครบรอบ 8 ปี ตำหนักเซียน 12 องค์เทพ"
             className="w-1/2 m-1 animate-fade animate-once animate-ease-in-out"
           />
@@ -925,12 +925,12 @@ export default function News() {
         </h1>
         <div className="flex animate-fade-right animate-once animate-ease-in-out animate-normal animate-fill-forwards">
           <Image
-            src={page1_5}
+            src={page1_2}
             alt="งานไหว้ครู ครบรอบ 8 ปี ตำหนักเซียน 12 องค์เทพ"
             className="w-1/2 m-1 animate-fade animate-once animate-ease-in-out"
           />
           <Image
-            src={page1_6}
+            src={page1_3}
             alt="งานไหว้ครู ครบรอบ 8 ปี ตำหนักเซียน 12 องค์เทพ"
             className="w-1/2 m-1 animate-fade animate-once animate-ease-in-out"
           />
@@ -942,24 +942,24 @@ export default function News() {
         </h1>
         <div className="flex animate-fade-right animate-once animate-ease-in-out animate-normal animate-fill-forwards">
           <Image
-            src={page2_1}
+            src={page2_2}
             alt="งานไหว้ครู ครบรอบ 8 ปี ตำหนักเซียน 12 องค์เทพ"
             className="w-1/2 m-1 animate-fade animate-once animate-ease-in-out"
           />
           <Image
-            src={page2_2}
+            src={page2_3}
             alt="งานไหว้ครู ครบรอบ 8 ปี ตำหนักเซียน 12 องค์เทพ"
             className="w-1/2 m-1 animate-fade animate-once animate-ease-in-out"
           />
         </div>
         <div className="flex flex-row">
           <Image
-            src={page2_3}
+            src={page2_5}
             alt="งานไหว้ครู ครบรอบ 8 ปี ตำหนักเซียน 12 องค์เทพ"
             className="w-1/2 m-1 animate-fade animate-once animate-ease-in-out"
           />
           <Image
-            src={page2_4}
+            src={page2_6}
             alt="งานไหว้ครู ครบรอบ 8 ปี ตำหนักเซียน 12 องค์เทพ"
             className="w-1/2 m-1 animate-fade animate-once animate-ease-in-out"
           />
@@ -1039,12 +1039,12 @@ export default function News() {
         </h1>
         <div className="flex animate-fade-right animate-once animate-ease-in-out animate-normal animate-fill-forwards">
           <Image
-            src={page2_5}
+            src={page2_1}
             alt="งานไหว้ครู ครบรอบ 8 ปี ตำหนักเซียน 12 องค์เทพ"
             className="w-1/2 m-1 animate-fade animate-once animate-ease-in-out"
           />
           <Image
-            src={page2_6}
+            src={page2_4}
             alt="งานไหว้ครู ครบรอบ 8 ปี ตำหนักเซียน 12 องค์เทพ"
             className="w-1/2 m-1 animate-fade animate-once animate-ease-in-out"
           />
@@ -1061,19 +1061,19 @@ export default function News() {
             className="w-1/2 m-1 animate-fade animate-once animate-ease-in-out"
           />
           <Image
-            src={page3_2}
+            src={page3_3}
             alt="งานไหว้ครู ครบรอบ 8 ปี ตำหนักเซียน 12 องค์เทพ"
             className="w-1/2 m-1 animate-fade animate-once animate-ease-in-out"
           />
         </div>
         <div className="flex flex-row">
           <Image
-            src={page3_3}
+            src={page3_4}
             alt="งานไหว้ครู ครบรอบ 8 ปี ตำหนักเซียน 12 องค์เทพ"
             className="w-1/2 m-1 animate-fade animate-once animate-ease-in-out"
           />
           <Image
-            src={page3_4}
+            src={page3_5}
             alt="งานไหว้ครู ครบรอบ 8 ปี ตำหนักเซียน 12 องค์เทพ"
             className="w-1/2 m-1 animate-fade animate-once animate-ease-in-out"
           />
@@ -1183,14 +1183,16 @@ export default function News() {
         <h1 className="text-[15px] my-[10px] w-full md:text-[30px] md:my-[20px] text-start animate-fade-right animate-once animate-ease-in-out animate-normal animate-fill-forwards">
           #พ่อครูหาริ
         </h1>
-        <div className="flex animate-fade-right animate-once animate-ease-in-out animate-normal animate-fill-forwards">
+        <div className="flex justify-center animate-fade-right animate-once animate-ease-in-out animate-normal animate-fill-forwards">
           <Image
-            src={page3_5}
+            src={page3_6}
             alt="งานไหว้ครู ครบรอบ 8 ปี ตำหนักเซียน 12 องค์เทพ"
             className="w-1/2 m-1 animate-fade animate-once animate-ease-in-out"
           />
+        </div>
+        <div className="flex justify-center">
           <Image
-            src={page3_6}
+            src={page3_2}
             alt="งานไหว้ครู ครบรอบ 8 ปี ตำหนักเซียน 12 องค์เทพ"
             className="w-1/2 m-1 animate-fade animate-once animate-ease-in-out"
           />
