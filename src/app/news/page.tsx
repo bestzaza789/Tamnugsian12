@@ -417,17 +417,23 @@ export default function News() {
             className="w-1/2 m-1 animate-fade animate-once animate-ease-in-out"
           />
         </div>
-        <div className="flex flex-row">
-          <Image
-            src={page3_2}
-            alt="งานไหว้ครู ครบรอบ 8 ปี ตำหนักเซียน 12 องค์เทพ"
-            className="w-1/2 m-1 animate-fade animate-once animate-ease-in-out"
-          />
-          <Image
-            src={page5_7}
-            alt="งานไหว้ครู ครบรอบ 8 ปี ตำหนักเซียน 12 องค์เทพ"
-            className="w-1/2 m-1 animate-fade animate-once animate-ease-in-out"
-          />
+        <div className="flex flex-row w-full">
+          <div className="relative w-1/2 aspect-[3/4] m-1 animate-fade animate-once animate-ease-in-out">
+            <Image
+              src={page3_2}
+              alt="งานไหว้ครู ครบรอบ 8 ปี ตำหนักเซียน 12 องค์เทพ"
+              fill
+              className="object-cover"
+            />
+          </div>
+          <div className="relative w-1/2 aspect-[3/4] m-1 animate-fade animate-once animate-ease-in-out">
+            <Image
+              src={page5_7}
+              alt="งานไหว้ครู ครบรอบ 8 ปี ตำหนักเซียน 12 องค์เทพ"
+              fill
+              className="object-cover"
+            />
+          </div>
         </div>
 
         <h1 className="text-[15px] my-[10px] w-full md:text-[30px] md:my-[20px] text-start animate-fade-right animate-once animate-ease-in-out animate-normal animate-fill-forwards">
