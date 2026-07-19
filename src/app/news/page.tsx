@@ -470,6 +470,18 @@ export default function News() {
           />
         </div>
 
+        <div className="flex animate-fade-right animate-once animate-ease-in-out animate-normal animate-fill-forwards">
+          <Image
+            src={news4}
+            alt="history"
+            className="md:w-[500px] md:my-[20px] md:mx-2 my-[20px] mx-2 w-[150px]"
+          />
+          <Image
+            src={news5}
+            alt="history"
+            className="md:w-[300px] md:my-[20px] md:mx-2 my-[20px] mx-2 w-[100px]"
+          />
+        </div>
         <section className="text-[15px] my-[10px] md:text-[30px] md:my-[20px] text-start animate-fade-right animate-once animate-ease-in-out animate-normal animate-fill-forwards">
           <p className="mb-4">
             สืบเนื่องจาก อาจารย์หาริ เพชรลานน์ ได้ออกแสวงบุญ ที่
