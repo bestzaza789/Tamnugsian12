@@ -30,6 +30,7 @@ import page5_4 from "../component/pictureNew/page5/S__53952583.jpg";
 import page5_5 from "../component/pictureNew/page5/S__53952573.jpg";
 import page5_6 from "../component/pictureNew/page5/S__53952572.jpg";
 import page5_7 from "../component/pictureNew/page5/S__54100014.jpg";
+import page5_8 from "../component/pictureNew/page5/S__54116378.jpg";
 
 export default function News() {
   return (
@@ -404,16 +405,26 @@ export default function News() {
         <h1 className="text-[15px] my-[10px] w-full md:text-[30px] md:my-[20px] text-start animate-fade-right animate-once animate-ease-in-out animate-normal animate-fill-forwards">
           #พ่อครูหาริ
         </h1>
-        <div className="flex justify-center animate-fade-right animate-once animate-ease-in-out animate-normal animate-fill-forwards">
+        <div className="flex animate-fade-right animate-once animate-ease-in-out animate-normal animate-fill-forwards">
           <Image
             src={page3_6}
             alt="งานไหว้ครู ครบรอบ 8 ปี ตำหนักเซียน 12 องค์เทพ"
             className="w-1/2 m-1 animate-fade animate-once animate-ease-in-out"
           />
+          <Image
+            src={page5_8}
+            alt="งานไหว้ครู ครบรอบ 8 ปี ตำหนักเซียน 12 องค์เทพ"
+            className="w-1/2 m-1 animate-fade animate-once animate-ease-in-out"
+          />
         </div>
-        <div className="flex justify-center">
+        <div className="flex flex-row">
           <Image
             src={page3_2}
+            alt="งานไหว้ครู ครบรอบ 8 ปี ตำหนักเซียน 12 องค์เทพ"
+            className="w-1/2 m-1 animate-fade animate-once animate-ease-in-out"
+          />
+          <Image
+            src={page5_7}
             alt="งานไหว้ครู ครบรอบ 8 ปี ตำหนักเซียน 12 องค์เทพ"
             className="w-1/2 m-1 animate-fade animate-once animate-ease-in-out"
           />
@@ -458,13 +469,6 @@ export default function News() {
           />
           <Image
             src={page5_6}
-            alt="งานไหว้ครู ครบรอบ 8 ปี ตำหนักเซียน 12 องค์เทพ"
-            className="w-1/2 m-1 animate-fade animate-once animate-ease-in-out"
-          />
-        </div>
-        <div className="flex justify-center">
-          <Image
-            src={page5_7}
             alt="งานไหว้ครู ครบรอบ 8 ปี ตำหนักเซียน 12 องค์เทพ"
             className="w-1/2 m-1 animate-fade animate-once animate-ease-in-out"
           />
