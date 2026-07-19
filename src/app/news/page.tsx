@@ -27,6 +27,9 @@ import page5_1 from "../component/pictureNew/page5/S__53952576.jpg";
 import page5_2 from "../component/pictureNew/page5/S__53952580.jpg";
 import page5_3 from "../component/pictureNew/page5/S__53952582.jpg";
 import page5_4 from "../component/pictureNew/page5/S__53952583.jpg";
+import page5_5 from "../component/pictureNew/page5/S__53952573.jpg";
+import page5_6 from "../component/pictureNew/page5/S__53952572.jpg";
+import page5_7 from "../component/pictureNew/page5/S__54100014.jpg";
 
 export default function News() {
   return (
@@ -1225,6 +1228,25 @@ export default function News() {
           />
           <Image
             src={page5_4}
+            alt="งานไหว้ครู ครบรอบ 8 ปี ตำหนักเซียน 12 องค์เทพ"
+            className="w-1/2 m-1 animate-fade animate-once animate-ease-in-out"
+          />
+        </div>
+        <div className="flex flex-row">
+          <Image
+            src={page5_5}
+            alt="งานไหว้ครู ครบรอบ 8 ปี ตำหนักเซียน 12 องค์เทพ"
+            className="w-1/2 m-1 animate-fade animate-once animate-ease-in-out"
+          />
+          <Image
+            src={page5_6}
+            alt="งานไหว้ครู ครบรอบ 8 ปี ตำหนักเซียน 12 องค์เทพ"
+            className="w-1/2 m-1 animate-fade animate-once animate-ease-in-out"
+          />
+        </div>
+        <div className="flex justify-center">
+          <Image
+            src={page5_7}
             alt="งานไหว้ครู ครบรอบ 8 ปี ตำหนักเซียน 12 องค์เทพ"
             className="w-1/2 m-1 animate-fade animate-once animate-ease-in-out"
           />
